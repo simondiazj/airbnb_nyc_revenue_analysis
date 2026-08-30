@@ -29,9 +29,11 @@ The analysis focuses on the following questions:
 
 ## 📊 Dataset
 
-**Source:** Inside Airbnb  
+**Source:** [Inside Airbnb](https://insideairbnb.com/get-the-data/)  
 **Location:** New York City  
-**Snapshot:** April 2026
+**Snapshot:** April 2026  
+**Analysis Period:** April 2025 – April 2026
+
 
 The original `listings` dataset contains **35,036 listings**.
 
@@ -255,7 +257,7 @@ Users can click the borough buttons to focus the map on a specific area of New Y
 ## 📂 Project Structure
 
 ```text
-Airbnb_Project/
+airbnb_nyc_revenue_analysis/
 │
 ├── data/
 │   └── Airbnb_listing_active.csv
@@ -264,8 +266,9 @@ Airbnb_Project/
 │   ├── data_cleaning.sql
 │   └── exploratory_analysis.sql
 │
-├── tableau/
-│   └── Airbnb_NYC_Dashboard
+├── visuals/
+│   ├── Airbnb_NYC_Executive_Overview.png
+│   └── Airbnb_NYC_Market_Analysis.png
 │
 └── README.md
 ```
