@@ -196,7 +196,7 @@ The final analysis was transformed into an interactive **Tableau dashboard**.
 
 🔗 [Open the interactive Tableau dashboard](https://public.tableau.com/views/Book1_17833799981730/MarketAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-The dashboard allows users to explore Airbnb performance by:
+The dashboard includes interactive buttons that allow users to select a room type or borough. All charts and metrics update dynamically, making it easy to compare performance across accommodation types and NYC boroughs.
 
 - Borough
 - Neighborhood
@@ -212,7 +212,7 @@ The dashboard allows users to explore Airbnb performance by:
 
 The dashboard includes a geographic visualization showing Airbnb listings across New York City.
 
-Users can filter the map by **room type** to explore the geographic distribution and performance of different accommodation types.
+Users can click the borough buttons to focus the map on a specific area of New York City and use the room type buttons to filter listings by accommodation type. The map updates dynamically to display the location and performance of the selected listings.
 
 ### Dashboard Features
 
