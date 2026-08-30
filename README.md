@@ -194,7 +194,7 @@ The positive correlation between number of reviews and occupancy (**0.399**) sug
 
 The final analysis was transformed into an interactive **Tableau dashboard**.
 
-🔗 [Open the interactive Tableau dashboard](https://public.tableau.com/views/Book1_17833799981730/MarketAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/Airbnb_NY_Revenue_Analysis/MarketAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 The dashboard includes interactive buttons that allow users to select a room type or borough. All charts and metrics update dynamically, making it easy to compare performance across accommodation types and NYC boroughs.
 
