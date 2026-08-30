@@ -229,6 +229,16 @@ Users can click the borough buttons to focus the map on a specific area of New Y
 - Correlation analysis
 - Geographic map of listings
 
+## 📸 Dashboard Preview
+
+### Executive Overview
+
+![Airbnb NYC Executive Overview](./visuals/Airbnb_NYC_Executive_Overview.png)
+
+### Market Analysis
+
+![Airbnb NYC Market Analysis](./visuals/Airbnb_NYC_Market_Analysis.png)
+
 ---
 
 ## 🛠️ Tools & Technologies
